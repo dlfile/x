@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p /tmp/c3
 cd /tmp/c3
 wget https://raw.githubusercontent.com/dlfile/x/main/e/nginx.json
